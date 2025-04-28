@@ -66,6 +66,7 @@ You could also open an issue here on GitHub. Note, we use a separate
 GitHub repository for each add-on. Please ensure you are creating the issue
 on the correct GitHub repository matching the add-on.
 
+
 For a general repository issue or add-on ideas [open an issue here][issue]
 
 ## Contributing
