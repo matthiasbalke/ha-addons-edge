@@ -46,6 +46,19 @@ https://github.com/matthiasbalke/ha-addons-edge
 
 ## Add-ons provided by this repository
 
+### &#10003; [Collabora Online Development Edition (CODE)][addon-collabora-code]
+
+![Latest Version][collabora-code-version-shield]
+![Supports armhf Architecture][collabora-code-armhf-shield]
+![Supports armv7 Architecture][collabora-code-armv7-shield]
+![Supports aarch64 Architecture][collabora-code-aarch64-shield]
+![Supports amd64 Architecture][collabora-code-amd64-shield]
+![Supports i386 Architecture][collabora-code-i386-shield]
+
+Collabora Online Development Edition - an awesome, Online Office suite image suitable for home use.
+
+[:books: Collabora Online Development Edition (CODE) add-on documentation][addon-doc-collabora-code]
+
 ## Releases
 
 Add-on releases are **NOT** based on [Semantic Versioning][semver], unlike
@@ -66,6 +79,7 @@ You could also open an issue here on GitHub. Note, we use a separate
 GitHub repository for each add-on. Please ensure you are creating the issue
 on the correct GitHub repository matching the add-on.
 
+- [Open an issue for the add-on: Collabora Online Development Edition (CODE)][collabora-code-issue]
 
 For a general repository issue or add-on ideas [open an issue here][issue]
 
@@ -101,6 +115,15 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
+[addon-collabora-code]: https://github.com/matthiasbalke/addon-collabora-code/tree/b82cf9e
+[addon-doc-collabora-code]: https://github.com/matthiasbalke/addon-collabora-code/blob/b82cf9e/README.md
+[collabora-code-issue]: https://github.com/matthiasbalke/addon-collabora-code/issues
+[collabora-code-version-shield]: https://img.shields.io/badge/version-b82cf9e-blue.svg
+[collabora-code-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
+[collabora-code-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
+[collabora-code-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
+[collabora-code-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
+[collabora-code-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
 [discord-ha]: https://discord.gg/c5DvZ4e
 [discord-shield]: https://img.shields.io/discord/478094546522079232.svg
 [forum-shield]: https://img.shields.io/badge/community-forum-brightgreen.svg
