@@ -3,7 +3,7 @@ slug: collabora-code
 description: Collabora Online Development Edition - an awesome, Online Office suite
   image suitable for home use.
 url: https://github.com/matthiasbalke/addon-collabora-code
-version: b82cf9e
+version: 8774eaa
 image: ghcr.io/matthiasbalke/collabora-code/{arch}
 init: false
 startup: services
@@ -22,6 +22,7 @@ options:
   dont_gen_ssl_cert: false
   username: ''
   password: ''
+  extra_params: --o:logging.level=information --o:logging.color=false
 schema:
   username: str
   password: password

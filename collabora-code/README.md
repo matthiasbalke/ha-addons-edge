@@ -69,8 +69,8 @@ SOFTWARE.
 
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-early%09testing-yellow.svg
 [license-shield]: https://img.shields.io/github/license/https://github.com/matthiasbalke/addon-collabora-code
-[release-shield]: https://img.shields.io/badge/version-b82cf9e-blue.svg
-[release]: https://github.com/matthiasbalke/addon-collabora-code/tree/b82cf9e
+[release-shield]: https://img.shields.io/badge/version-8774eaa-blue.svg
+[release]: https://github.com/matthiasbalke/addon-collabora-code/tree/8774eaa
 [aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
