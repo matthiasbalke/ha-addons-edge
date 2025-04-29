@@ -1,3 +1,3 @@
-- support extra_params (#1)
+- define default add-on configuration (#2)
 
-* make default logging options configurable
+for usage behind a reverse proxy (e.g. cloudflared)
