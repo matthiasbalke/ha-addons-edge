@@ -1,1 +1,3 @@
-- mark add-on as experimental (#5)
+- add translation support (#4)
+
+* migrate configuration options
