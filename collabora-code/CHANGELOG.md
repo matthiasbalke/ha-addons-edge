@@ -1,1 +1,1 @@
-- disable generation of self signed certs on startup (#3)
+- mark add-on as experimental (#5)
