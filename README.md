@@ -115,10 +115,10 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-[addon-collabora-code]: https://github.com/matthiasbalke/addon-collabora-code/tree/e2ef958
-[addon-doc-collabora-code]: https://github.com/matthiasbalke/addon-collabora-code/blob/e2ef958/README.md
+[addon-collabora-code]: https://github.com/matthiasbalke/addon-collabora-code/tree/968ac3a
+[addon-doc-collabora-code]: https://github.com/matthiasbalke/addon-collabora-code/blob/968ac3a/README.md
 [collabora-code-issue]: https://github.com/matthiasbalke/addon-collabora-code/issues
-[collabora-code-version-shield]: https://img.shields.io/badge/version-e2ef958-blue.svg
+[collabora-code-version-shield]: https://img.shields.io/badge/version-968ac3a-blue.svg
 [collabora-code-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [collabora-code-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [collabora-code-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg

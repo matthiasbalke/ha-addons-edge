@@ -69,8 +69,8 @@ SOFTWARE.
 
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-early%09testing-yellow.svg
 [license-shield]: https://img.shields.io/github/license/https://github.com/matthiasbalke/addon-collabora-code
-[release-shield]: https://img.shields.io/badge/version-e2ef958-blue.svg
-[release]: https://github.com/matthiasbalke/addon-collabora-code/tree/e2ef958
+[release-shield]: https://img.shields.io/badge/version-968ac3a-blue.svg
+[release]: https://github.com/matthiasbalke/addon-collabora-code/tree/968ac3a
 [aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
@@ -78,10 +78,10 @@ SOFTWARE.
 [i386-shield]: https://img.shields.io/badge/i386-no-red.svg
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2025.svg
 [commits-shield]: https://img.shields.io/github/commit-activity/y/https://github.com/matthiasbalke/addon-collabora-code.svg
-[commits]: https://github.com/https://github.com/matthiasbalke/addon-collabora-code/commits/main
+[commits]: https://github.com/matthiasbalke/addon-collabora-code/commits/main
 [ha-addons]: https://github.com/matthiasbalke/ha-addons
 [my-ha-badge]: https://my.home-assistant.io/badges/supervisor_add_addon_repository.svg
 [my-ha-url]: https://my.home-assistant.io/redirect/supervisor_add_addon_repository/?repository_url=https%3A%2F%2Fgithub.com%2Fmatthiasbalke%2Fha-addons
 [issue]: https://github.com/https://github.com/matthiasbalke/addon-collabora-code/issues
 [matthiasbalke]: https://github.com/matthiasbalke
-[contributors]: https://github.com/https://github.com/matthiasbalke/addon-collabora-code/graphs/contributors
+[contributors]: https://github.com/matthiasbalke/addon-collabora-code/graphs/contributors

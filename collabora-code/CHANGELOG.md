@@ -1,1 +1,1 @@
-- remove full_access (#7)
+- fix broken links (#8)
