@@ -1,1 +1,3 @@
-- fix broken links (#8)
+- shrink image size (#9)
+
+* do not install recommended packages
