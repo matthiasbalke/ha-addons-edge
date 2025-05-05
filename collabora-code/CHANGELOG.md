@@ -1,1 +1,1 @@
-- fix badge image links (#11)
+- fix broken links (#13)
