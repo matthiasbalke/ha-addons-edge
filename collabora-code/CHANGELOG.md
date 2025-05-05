@@ -1,3 +1,1 @@
-- shrink image size (#9)
-
-* do not install recommended packages
+- generate WOPI proof key (#10)
