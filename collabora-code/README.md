@@ -69,16 +69,16 @@ SOFTWARE.
 
 # https://github.com/hassio-addons/repository-updater?tab=readme-ov-file#add-ons-repository-readme-template
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-early%09testing-yellow.svg
-[license-shield]: https://img.shields.io/github/license/collabora-code
-[release-shield]: https://img.shields.io/badge/version-72efce4-blue.svg
-[release]: https://github.com/matthiasbalke/addon-collabora-code/tree/72efce4
+[license-shield]: https://img.shields.io/github/license/
+[release-shield]: https://img.shields.io/badge/version-b898eaf-blue.svg
+[release]: https://github.com/matthiasbalke/addon-collabora-code/tree/b898eaf
 [aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
 [i386-shield]: https://img.shields.io/badge/i386-no-red.svg
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2025.svg
-[commits-shield]: https://img.shields.io/github/commit-activity/y/collabora-code.svg
+[commits-shield]: https://img.shields.io/github/commit-activity/y/.svg
 [commits]: https://github.com/matthiasbalke/addon-collabora-code/commits/main
 [ha-addons]: https://github.com/matthiasbalke/ha-addons
 [my-ha-badge]: https://my.home-assistant.io/badges/supervisor_add_addon_repository.svg
