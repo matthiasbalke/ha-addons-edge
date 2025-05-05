@@ -1,1 +1,1 @@
-- generate WOPI proof key (#10)
+- fix badge image links (#11)

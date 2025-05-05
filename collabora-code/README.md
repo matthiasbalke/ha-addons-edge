@@ -67,21 +67,22 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
+# https://github.com/hassio-addons/repository-updater?tab=readme-ov-file#add-ons-repository-readme-template
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-early%09testing-yellow.svg
-[license-shield]: https://img.shields.io/github/license/https://github.com/matthiasbalke/addon-collabora-code
-[release-shield]: https://img.shields.io/badge/version-15bb51f-blue.svg
-[release]: https://github.com/matthiasbalke/addon-collabora-code/tree/15bb51f
+[license-shield]: https://img.shields.io/github/license/Collabora Online Development Edition (CODE)
+[release-shield]: https://img.shields.io/badge/version-4437cf4-blue.svg
+[release]: https://github.com/matthiasbalke/addon-collabora-code/tree/4437cf4
 [aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
 [i386-shield]: https://img.shields.io/badge/i386-no-red.svg
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2025.svg
-[commits-shield]: https://img.shields.io/github/commit-activity/y/https://github.com/matthiasbalke/addon-collabora-code.svg
+[commits-shield]: https://img.shields.io/github/commit-activity/y/Collabora Online Development Edition (CODE).svg
 [commits]: https://github.com/matthiasbalke/addon-collabora-code/commits/main
 [ha-addons]: https://github.com/matthiasbalke/ha-addons
 [my-ha-badge]: https://my.home-assistant.io/badges/supervisor_add_addon_repository.svg
 [my-ha-url]: https://my.home-assistant.io/redirect/supervisor_add_addon_repository/?repository_url=https%3A%2F%2Fgithub.com%2Fmatthiasbalke%2Fha-addons
-[issue]: https://github.com/https://github.com/matthiasbalke/addon-collabora-code/issues
+[issue]: https://github.com/matthiasbalke/addon-collabora-code/issues
 [matthiasbalke]: https://github.com/matthiasbalke
 [contributors]: https://github.com/matthiasbalke/addon-collabora-code/graphs/contributors
