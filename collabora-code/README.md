@@ -1,7 +1,6 @@
 # Home Assistant Add-on: Collabora Online Development Edition (CODE)
 
 ![Project Stage][project-stage-shield]
-[![License][license-shield]](LICENSE.md)
 
 ![Supports aarch64 Architecture][aarch64-shield]
 ![Supports amd64 Architecture][amd64-shield]
@@ -10,7 +9,6 @@
 ![Supports i386 Architecture][i386-shield]
 
 ![Project Maintenance][maintenance-shield]
-[![GitHub Activity][commits-shield]][commits]
 
 This add-on allows you to run Collabora Online Development Edition (CODE) on your Home Assistant instance.
 
@@ -69,17 +67,14 @@ SOFTWARE.
 
 # https://github.com/hassio-addons/repository-updater?tab=readme-ov-file#add-ons-repository-readme-template
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-early%09testing-yellow.svg
-[license-shield]: https://img.shields.io/github/license/
-[release-shield]: https://img.shields.io/badge/version-b898eaf-blue.svg
-[release]: https://github.com/matthiasbalke/addon-collabora-code/tree/b898eaf
+[release-shield]: https://img.shields.io/badge/version-a334c37-blue.svg
+[release]: https://github.com/matthiasbalke/addon-collabora-code/tree/a334c37
 [aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
 [i386-shield]: https://img.shields.io/badge/i386-no-red.svg
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2025.svg
-[commits-shield]: https://img.shields.io/github/commit-activity/y/.svg
-[commits]: https://github.com/matthiasbalke/addon-collabora-code/commits/main
 [ha-addons]: https://github.com/matthiasbalke/ha-addons
 [my-ha-badge]: https://my.home-assistant.io/badges/supervisor_add_addon_repository.svg
 [my-ha-url]: https://my.home-assistant.io/redirect/supervisor_add_addon_repository/?repository_url=https%3A%2F%2Fgithub.com%2Fmatthiasbalke%2Fha-addons

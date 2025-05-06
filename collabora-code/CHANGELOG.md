@@ -1,1 +1,1 @@
-- fix broken links (#14)
+- remove broken links (#15)
