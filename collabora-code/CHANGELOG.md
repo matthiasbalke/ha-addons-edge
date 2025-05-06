@@ -1,1 +1,1 @@
-- remove broken links (#15)
+- streamline README (#17)

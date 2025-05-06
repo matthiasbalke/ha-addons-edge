@@ -1,14 +1,12 @@
 # Home Assistant Add-on: Collabora Online Development Edition (CODE)
 
-![Project Stage][project-stage-shield]
+[![Release][release-shield]][release] ![Project Stage][project-stage-shield] ![Project Maintenance][maintenance-shield]
 
 ![Supports aarch64 Architecture][aarch64-shield]
 ![Supports amd64 Architecture][amd64-shield]
 ![Supports armhf Architecture][armhf-shield]
 ![Supports armv7 Architecture][armv7-shield]
 ![Supports i386 Architecture][i386-shield]
-
-![Project Maintenance][maintenance-shield]
 
 This add-on allows you to run Collabora Online Development Edition (CODE) on your Home Assistant instance.
 
@@ -67,8 +65,8 @@ SOFTWARE.
 
 # https://github.com/hassio-addons/repository-updater?tab=readme-ov-file#add-ons-repository-readme-template
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-early%09testing-yellow.svg
-[release-shield]: https://img.shields.io/badge/version-a334c37-blue.svg
-[release]: https://github.com/matthiasbalke/addon-collabora-code/tree/a334c37
+[release-shield]: https://img.shields.io/badge/version-fe27766-blue.svg
+[release]: https://github.com/matthiasbalke/addon-collabora-code/tree/fe27766
 [aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
