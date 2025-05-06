@@ -1,1 +1,1 @@
-- add basic docs (#18)
+- fix markdown comment (#20)
