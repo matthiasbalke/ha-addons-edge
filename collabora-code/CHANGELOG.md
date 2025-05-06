@@ -1,1 +1,1 @@
-- use default add-on rootfs structure (#16)
+- add basic docs (#18)
