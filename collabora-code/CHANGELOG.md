@@ -1,1 +1,1 @@
-- streamline README (#17)
+- use default add-on rootfs structure (#16)
