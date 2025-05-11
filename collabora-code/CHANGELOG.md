@@ -1,1 +1,1 @@
-- fix markdown comment (#20)
+- fix permissions on startup (#21)
