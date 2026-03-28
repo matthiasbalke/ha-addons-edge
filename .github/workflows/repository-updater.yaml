@@ -9,9 +9,17 @@ on:
 permissions:
   contents: read
 
+concurrency:
+  group: queue
+
 jobs:
-  workflows:
-    # v2.0.5
-    uses: hassio-addons/workflows/.github/workflows/repository-updater.yaml@bf24a85062d78a850e6747e4040527d40e023abd
-    secrets:
-      UPDATER_TOKEN: ${{ secrets.UPDATER_TOKEN }}
+  publish:
+    name: Publish app update
+    runs-on: ubuntu-latest
+    steps:
+      - name: 🚀 Run Repository Updater
+        uses: matthiasbalke/repository-updater@1777013a72cc5e5e5969d8f72ba8b5ee5e272d4f  # fix/config-writer-not-released
+        with:
+          app: ${{ github.event.client_payload.app }}
+          repository: ${{ github.repository }}
+          token: ${{ secrets.UPDATER_TOKEN }}
