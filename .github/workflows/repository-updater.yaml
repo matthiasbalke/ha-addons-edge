@@ -18,7 +18,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: 🚀 Run Repository Updater
-        uses: matthiasbalke/repository-updater@1777013a72cc5e5e5969d8f72ba8b5ee5e272d4f  # fix/config-writer-not-released
+        uses: matthiasbalke/repository-updater@bab675cb8f487c3a00eb4bbeb69c902f88efef7e  # fix/config-writer-not-released
         with:
           app: ${{ github.event.client_payload.app }}
           repository: ${{ github.repository }}
