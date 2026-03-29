@@ -1,1 +1,1 @@
-- Update Docker base image to specific SHA
+- Update Docker base image to latest version
