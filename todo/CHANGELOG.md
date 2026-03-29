@@ -1,1 +1,1 @@
-- Update Docker base image to latest version
+- fixed pinned apk versions
