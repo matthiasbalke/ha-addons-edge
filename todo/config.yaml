@@ -1,0 +1,35 @@
+name: ToDo
+slug: todo
+description: ''
+url: https://github.com/matthiasbalke/addon-todo
+version: bc96e92
+stage: experimental
+image: ghcr.io/matthiasbalke/todo/{arch}
+init: false
+startup: services
+arch:
+- aarch64
+- amd64
+webui: http://[HOST]:[PORT:80]
+ports:
+  80/tcp: 80
+ports_description:
+  80/tcp: todo application port
+map:
+- addon_config:rw
+options:
+  springDatasourceUrl: jdbc:postgresql://postgres-host.com:5432/todo
+  springDatasourceUsername: todo
+  springDatasourcePassword: yourSecretPassword
+  jwtSecret: '<JWT Secret generated using: openssl rand -base64 32>'
+  origin: http://yourdomain.com
+  webauthnRpId: yourdomain.com
+  registrationEnabled: true
+schema:
+  springDatasourceUrl: str
+  springDatasourceUsername: str
+  springDatasourcePassword: password
+  jwtSecret: str
+  origin: str
+  webauthnRpId: str
+  registrationEnabled: bool

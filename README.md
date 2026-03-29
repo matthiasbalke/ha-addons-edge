@@ -59,6 +59,19 @@ Collabora Online Development Edition - an awesome, Online Office suite image sui
 
 [:books: Collabora Online Development Edition (CODE) add-on documentation][addon-doc-collabora-code]
 
+### &#10003; [ToDo][addon-todo]
+
+![Latest Version][todo-version-shield]
+![Supports armhf Architecture][todo-armhf-shield]
+![Supports armv7 Architecture][todo-armv7-shield]
+![Supports aarch64 Architecture][todo-aarch64-shield]
+![Supports amd64 Architecture][todo-amd64-shield]
+![Supports i386 Architecture][todo-i386-shield]
+
+
+
+[:books: ToDo add-on documentation][addon-doc-todo]
+
 ## Releases
 
 Add-on releases are **NOT** based on [Semantic Versioning][semver], unlike
@@ -80,6 +93,7 @@ GitHub repository for each add-on. Please ensure you are creating the issue
 on the correct GitHub repository matching the add-on.
 
 - [Open an issue for the add-on: Collabora Online Development Edition (CODE)][collabora-code-issue]
+- [Open an issue for the add-on: ToDo][todo-issue]
 
 For a general repository issue or add-on ideas [open an issue here][issue]
 
@@ -124,6 +138,15 @@ SOFTWARE.
 [collabora-code-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [collabora-code-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
 [collabora-code-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
+[addon-todo]: https://github.com/matthiasbalke/addon-todo/tree/bc96e92
+[addon-doc-todo]: https://github.com/matthiasbalke/addon-todo/blob/bc96e92/README.md
+[todo-issue]: https://github.com/matthiasbalke/addon-todo/issues
+[todo-version-shield]: https://img.shields.io/badge/version-bc96e92-blue.svg
+[todo-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
+[todo-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
+[todo-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
+[todo-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
+[todo-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
 [discord-ha]: https://discord.gg/c5DvZ4e
 [discord-shield]: https://img.shields.io/discord/478094546522079232.svg
 [forum-shield]: https://img.shields.io/badge/community-forum-brightgreen.svg
