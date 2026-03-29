@@ -1,1 +1,1 @@
-- add brand icons (#1)
+- Update Docker base image to specific SHA
