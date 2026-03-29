@@ -5,3 +5,7 @@ addons:
     repository: matthiasbalke/addon-collabora-code
     target: collabora-code
     image: ghcr.io/matthiasbalke/collabora-code/{arch}
+  todo:
+    repository: matthiasbalke/addon-todo
+    target: todo
+    image: ghcr.io/matthiasbalke/todo/{arch}
