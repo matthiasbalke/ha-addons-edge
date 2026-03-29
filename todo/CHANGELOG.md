@@ -1,1 +1,1 @@
-- fixed pinned apk versions
+- update app version
