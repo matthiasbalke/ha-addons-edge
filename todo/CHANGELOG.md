@@ -1,1 +1,1 @@
-- update app version
+- Update Docker image to latest version
