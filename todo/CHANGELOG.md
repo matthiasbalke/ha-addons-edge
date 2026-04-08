@@ -1,1 +1,1 @@
-- chore: update base image to sha-e78a700
+- Add main branch to CI workflow triggers
