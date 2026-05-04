@@ -65,14 +65,14 @@ SOFTWARE.
 
 <!-- https://github.com/hassio-addons/repository-updater?tab=readme-ov-file#add-ons-repository-readme-template -->
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-early%09testing-yellow.svg
-[release-shield]: https://img.shields.io/badge/version-a7f76e5-blue.svg
-[release]: https://github.com/matthiasbalke/addon-todo/tree/a7f76e5
+[release-shield]: https://img.shields.io/badge/version-b61ae26-blue.svg
+[release]: https://github.com/matthiasbalke/addon-todo/tree/b61ae26
 [aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
 [i386-shield]: https://img.shields.io/badge/i386-no-red.svg
-[maintenance-shield]: https://img.shields.io/maintenance/yes/2025.svg
+[maintenance-shield]: https://img.shields.io/maintenance/yes/2026.svg
 [ha-addons]: https://github.com/matthiasbalke/ha-addons
 [my-ha-badge]: https://my.home-assistant.io/badges/supervisor_add_addon_repository.svg
 [my-ha-url]: https://my.home-assistant.io/redirect/supervisor_add_addon_repository/?repository_url=https%3A%2F%2Fgithub.com%2Fmatthiasbalke%2Fha-addons

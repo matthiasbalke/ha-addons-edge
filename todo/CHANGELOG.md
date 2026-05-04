@@ -1,1 +1,1 @@
-- chore: update base image to sha-b7de474
+- Update maintenance shield year to 2026
