@@ -1,1 +1,1 @@
-- updated pinned packages (#3)
+- chore: update base image to sha-44452bd
