@@ -1,1 +1,1 @@
-- update to pre-release 0.1.0
+- chore: update base image to sha-8f8a421
