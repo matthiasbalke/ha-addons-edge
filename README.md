@@ -138,10 +138,10 @@ SOFTWARE.
 [collabora-code-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [collabora-code-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
 [collabora-code-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
-[addon-todo]: https://github.com/matthiasbalke/addon-todo/tree/c2af051
-[addon-doc-todo]: https://github.com/matthiasbalke/addon-todo/blob/c2af051/README.md
+[addon-todo]: https://github.com/matthiasbalke/addon-todo/tree/d4ec26a
+[addon-doc-todo]: https://github.com/matthiasbalke/addon-todo/blob/d4ec26a/README.md
 [todo-issue]: https://github.com/matthiasbalke/addon-todo/issues
-[todo-version-shield]: https://img.shields.io/badge/version-c2af051-blue.svg
+[todo-version-shield]: https://img.shields.io/badge/version-d4ec26a-blue.svg
 [todo-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [todo-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [todo-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
