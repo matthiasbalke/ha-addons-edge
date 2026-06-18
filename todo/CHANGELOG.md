@@ -1,1 +1,3 @@
-- chore: update base image to sha-3674a19
+- run as root (#6)
+
+supervisord runs commands as non root user
