@@ -1,1 +1,18 @@
-- chore: update base image to sha-c904e15
+- Bump actions/checkout from 6.0.2 to 6.0.3 (#4)
+
+Bumps [actions/checkout](https://github.com/actions/checkout) from 6.0.2 to 6.0.3.
+- [Release notes](https://github.com/actions/checkout/releases)
+- [Changelog](https://github.com/actions/checkout/blob/main/CHANGELOG.md)
+- [Commits](https://github.com/actions/checkout/compare/de0fac2e4500dabe0009e67214ff5f5447ce83dd...df4cb1c069e1874edd31b4311f1884172cec0e10)
+
+---
+updated-dependencies:
+- dependency-name: actions/checkout
+  dependency-version: 6.0.3
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Co-authored-by: Matthias Balke <matthias.balke@googlemail.com>
