@@ -1,1 +1,3 @@
-- chore: update base image to sha-fc7d99b
+- Merge pull request #10 from matthiasbalke/chore/update
+
+prefer semver release image versions over regular sha-* versions
