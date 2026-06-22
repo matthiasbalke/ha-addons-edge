@@ -1,1 +1,3 @@
-- chore: update base image to sha-43946de
+- Merge pull request #8 from matthiasbalke/chore/github-app
+
+use github app to bypass github actions checks
