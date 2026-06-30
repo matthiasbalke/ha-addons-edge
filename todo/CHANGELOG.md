@@ -1,1 +1,1 @@
-- chore: update base image to 0.4.1
+- chore: update base image to sha-ea6125d
