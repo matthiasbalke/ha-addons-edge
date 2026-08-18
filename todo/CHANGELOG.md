@@ -1,3 +1,9 @@
-- Merge pull request #11 from matthiasbalke/dependabot/github_actions/actions/checkout-7.0.1
+- chore: Configure Renovate (#12)
 
-build(deps): bump actions/checkout from 7.0.0 to 7.0.1
+* Add renovate.jsonc
+* update apk versions using renovate
+
+---------
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com>
+Co-authored-by: Matthias Balke <matthias.balke@googlemail.com>
