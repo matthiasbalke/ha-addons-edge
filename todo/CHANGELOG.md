@@ -1,1 +1,1 @@
-- chore: update base image to sha-5e317ee
+- chore: update base image to sha-2ce60b0
