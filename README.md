@@ -153,7 +153,7 @@ SOFTWARE.
 [forum]: https://community.home-assistant.io/u/matthiasbalke
 [issue]: https://github.com/matthiasbalke/ha-addons-edge/issues
 [license-shield]: https://img.shields.io/github/license/matthiasbalke/ha-addons-edge.svg
-[maintenance-shield]: https://img.shields.io/maintenance/yes/2025.svg
+[maintenance-shield]: https://img.shields.io/maintenance/yes/2026.svg
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-experimental-yellow.svg
 [reddit]: https://reddit.com/r/homeassistant
 [semver]: http://semver.org/spec/v2.0.0.html
