@@ -1,1 +1,1 @@
-- ⬆️ Update dependency bashio to v0.19.0 (#18)
+- chore: update base image to sha-8bab374
