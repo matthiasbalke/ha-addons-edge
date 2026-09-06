@@ -1,1 +1,1 @@
-- ⬆️ Update dependency curl to v8.22.0-r0 (#21)
+- chore: reorder release drafter rules (#23)

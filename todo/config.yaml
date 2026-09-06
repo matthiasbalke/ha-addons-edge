@@ -2,7 +2,7 @@ name: ToDo
 slug: todo
 description: ''
 url: https://github.com/matthiasbalke/addon-todo
-version: 7c1c1e8
+version: c169a20
 stage: experimental
 image: ghcr.io/matthiasbalke/todo/{arch}
 init: false
