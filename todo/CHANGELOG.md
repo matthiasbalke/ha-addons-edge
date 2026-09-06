@@ -1,1 +1,1 @@
-- ⬆️ Update dependency jq to v1.8.2-r0 (#13)
+- ⬆️ Update dependency curl to v8.22.0-r0 (#21)
