@@ -1,1 +1,1 @@
-- chore: fetch branch before pushing (#32)
+- chore: request project permissions (#33)
