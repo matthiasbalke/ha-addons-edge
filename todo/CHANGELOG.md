@@ -1,1 +1,1 @@
-- chore: update base image to 0.4.3
+- ⬆️ Update docker/dockerfile Docker tag to v1.27 (#20)
