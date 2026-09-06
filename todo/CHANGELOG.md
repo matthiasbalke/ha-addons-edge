@@ -1,1 +1,1 @@
-- chore: add project and label to update PR (#31)
+- chore: fetch branch before pushing (#32)
