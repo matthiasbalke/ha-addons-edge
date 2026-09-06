@@ -1,1 +1,1 @@
-- chore: add extra changelog section for app updates (#26)
+- chore(app): Update todo to v0.5.0
