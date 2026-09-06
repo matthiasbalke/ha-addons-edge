@@ -1,1 +1,1 @@
-- chore(app): Update todo to v0.5.0
+- chore: use PR to update base image tag (#27)
