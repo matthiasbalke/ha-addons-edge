@@ -1,1 +1,1 @@
-- ⬆️ Update docker/dockerfile Docker tag to v1.27 (#20)
+- ⬆️ Update dependency jq to v1.8.2-r0 (#13)
