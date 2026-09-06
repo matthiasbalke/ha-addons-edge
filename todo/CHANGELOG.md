@@ -1,1 +1,1 @@
-- chore: add extra changelog section for app updates (#25)
+- chore: add extra changelog section for app updates (#26)
