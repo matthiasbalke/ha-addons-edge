@@ -1,1 +1,1 @@
-- chore: update base image to sha-0292e5e
+- chore: add extra changelog section for app updates (#25)
