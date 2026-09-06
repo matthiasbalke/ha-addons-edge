@@ -1,1 +1,1 @@
-- chore: reorder release drafter rules (#23)
+- chore: update base image to sha-0292e5e
