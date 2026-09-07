@@ -1,1 +1,1 @@
-- chore: add link to app release notes (#39)
+- chore: include v in version link (#40)
