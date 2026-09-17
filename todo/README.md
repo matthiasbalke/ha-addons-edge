@@ -65,8 +65,8 @@ SOFTWARE.
 
 <!-- https://github.com/hassio-addons/repository-updater?tab=readme-ov-file#add-ons-repository-readme-template -->
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-early%09testing-yellow.svg
-[release-shield]: https://img.shields.io/badge/version-21b84a4-blue.svg
-[release]: https://github.com/matthiasbalke/addon-todo/tree/21b84a4
+[release-shield]: https://img.shields.io/badge/version-985e458-blue.svg
+[release]: https://github.com/matthiasbalke/addon-todo/tree/985e458
 [aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
