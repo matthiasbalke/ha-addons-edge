@@ -1,3 +1,3 @@
-- chore(app): Update todo to vsha-a23109a (#96)
+- chore(app): Update todo to vsha-0afe881 (#97)
 
 Co-authored-by: matthiasbalke-todo-bot <matthiasbalke-todo-bot@users.noreply.github.com>
