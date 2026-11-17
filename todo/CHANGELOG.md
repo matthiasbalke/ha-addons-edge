@@ -1,3 +1,3 @@
-- chore(app): Update todo to v0.8.0 (#117)
+- Merge pull request #83 from matthiasbalke/renovate/release-drafter-release-drafter-7.x
 
-Co-authored-by: matthiasbalke-todo-bot <matthiasbalke-todo-bot@users.noreply.github.com>
+chore(deps): update release-drafter/release-drafter action to v7.11.0
