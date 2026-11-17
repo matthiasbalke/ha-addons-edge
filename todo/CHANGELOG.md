@@ -1,3 +1,3 @@
-- Merge pull request #83 from matthiasbalke/renovate/release-drafter-release-drafter-7.x
+- Merge pull request #59 from matthiasbalke/chore/funding
 
-chore(deps): update release-drafter/release-drafter action to v7.11.0
+chore: configure funding
