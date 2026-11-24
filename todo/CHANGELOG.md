@@ -1,3 +1,3 @@
-- Merge pull request #59 from matthiasbalke/chore/funding
+- chore(app): Update todo to vsha-b4e3d2c (#118)
 
-chore: configure funding
+Co-authored-by: matthiasbalke-todo-bot <matthiasbalke-todo-bot@users.noreply.github.com>
